@@ -13,3 +13,4 @@ Mine Çetinkaya-Rundel and Colin Rundel.
 | Version Control                 | [:desktop_computer:](https://dukestatsci.github.io/computing_bootcamp_2022/slides/02_version_control.html)            |
 | Reproducible Research           | [:desktop_computer:](https://dukestatsci.github.io/computing_bootcamp_2022/slides/03_reproducible_research.html)      |
 
+“This is a line from RStudio”.
